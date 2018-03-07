@@ -1,0 +1,199 @@
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Albany
+Annapolis
+Atlanta
+Augusta
+Austin
+Baton Rouge
+Bismarck
+Boise
+Boston
+Carson City
+Charleston
+Cheyenne
+Columbia
+Columbus
+Concord
+Denver
+Des Moines
+Dover
+Frankfort
+Harrisburg
+Hartford
+Helena
+Honolulu
+Indianapolis
+Jackson
+Jefferson City
+Juneau
+Lansing
+Lincoln
+Little Rock
+Madison
+Montgomery
+Montpelier
+Nashville
+Oklahoma City
+Olympia
+Phoenix
+Pierre
+Providence
+Raleigh
+Richmond
+Sacramento
+Saint Paul
+Salem
+Salt Lake City
+Santa Fe
+Springfield
+Tallahassee
+Topeka
+Trenton
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland
+Nova Scotia
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Northwest Territories
+Nunavut
+Yukon
+Edmonton
+Victoria
+Winnipeg
+Fredricton
+St Johns
+Yellowknife
+Halifax
+Iqaluit
+Toronto
+Charlottetown
+Quebec City
+Regina
+Whitehorse
+Ottawa
+Albania
+Austria
+Vienna
+Belarus
+Minsk
+Belgium
+Brussels
+Bosnia
+Sarajevo
+Bulgaria
+Sofia
+Croatia
+Czech Republic
+Prague
+Denmark
+Copenhagen
+Finland
+Helsinki
+France
+Paris
+Germany
+Berlin
+Greece
+Athens
+Hungary
+Budapest
+Iceland
+Reykjavik
+Ireland
+Dublin
+Italy
+Rome
+Latvia
+Riga
+Liechtenstein
+Lithuania
+Luxembourg
+Luxembourg City
+Monaco
+Monaco
+Netherlands
+Amsterdam
+Norway
+Oslo
+Poland
+Warsaw
+Portugal
+Lisbon
+Romania
+Bucharest
+Russia
+Moscow
+Serbia
+Belgrade
+Slovakia
+Bratislava
+Slovenia
+Ljubljana
+Spain
+Madrid
+Sweden
+Stockholm
+Switzerland
+Turkey
+Ukraine
+Kiev
+United Kingdom
+London
+Vatican
+Vatican City
+Britain
+England
